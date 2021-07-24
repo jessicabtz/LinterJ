@@ -8,4 +8,5 @@ Atualmente ele verifica:
  - condicional if-else
  
  -- Curiosidade: o J de linterJ é por causa do meu nome ;)
+ 
  -- Sinta-se a vontade para sugerir alterações
